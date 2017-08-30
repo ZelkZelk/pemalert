@@ -1,0 +1,3 @@
+SUBJECT="Hay certificados apunto de expirar"
+DST="soporte@test.com"
+DAYS=5
